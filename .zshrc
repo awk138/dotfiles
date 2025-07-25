@@ -12,3 +12,5 @@ alias la='ls -a'
 alias lla='ls -la'
 alias yzi='yazi'
 
+# misc
+export EDITOR=hx
