@@ -11,6 +11,7 @@ alias ll='ls -l'
 alias la='ls -a'
 alias lla='ls -la'
 alias yzi='yazi'
+alias lg='lazygit'
 
 # misc
 export EDITOR=hx
