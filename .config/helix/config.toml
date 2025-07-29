@@ -24,3 +24,7 @@ other-lines = "warning"
 
 [editor.lsp]
 display-inlay-hints = true
+
+[keys.normal]
+"C-[" = "jump_backward"
+"C-]" = "jump_forward"
