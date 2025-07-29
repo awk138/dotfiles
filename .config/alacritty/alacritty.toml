@@ -1,0 +1,12 @@
+[general]
+import = [
+    # https://github.com/alacritty/alacritty-theme
+    "~/.config/alacritty/themes/themes/catppuccin_mocha.toml"
+]
+
+[font]
+size = 13
+
+[window]
+option_as_alt = "OnlyLeft"
+
