@@ -41,3 +41,6 @@ display-inlay-hints = true
   ':open %sh{cat /tmp/unique-file}',
   ':redraw',
 ]
+
+[keys.insert]
+j = { j = "normal_mode" } # "jj"でNormal Modeへ移行
