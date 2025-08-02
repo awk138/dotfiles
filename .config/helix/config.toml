@@ -26,5 +26,6 @@ other-lines = "warning"
 display-inlay-hints = true
 
 [keys.normal]
+"X" = ["extend_line_up", "extend_to_line_bounds"]
 "C-[" = "jump_backward"
 "C-]" = "jump_forward"
