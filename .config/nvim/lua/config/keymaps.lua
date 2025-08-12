@@ -4,6 +4,8 @@
 local map = vim.keymap.set
 
 map("i", "jj", "<esc>")
+map("n", "<C-[>", "<C-o>")
+map("n", "<C-]>", "<C-i>")
 
 -- helix like
 map({ "n", "v" }, "gl", "$", { desc = "End of line" })
