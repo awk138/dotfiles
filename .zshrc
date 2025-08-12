@@ -13,6 +13,7 @@ alias lla='ls -la'
 alias yzi='yazi'
 alias lg='lazygit'
 alias cl='clear'
+alias vim='nvim'
 
 # misc
-export EDITOR=hx
+export EDITOR=nvim
