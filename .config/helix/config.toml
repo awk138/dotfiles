@@ -7,6 +7,7 @@ cursorline = true
 color-modes = true
 auto-completion = true
 auto-save = true
+bufferline = "always" # バッファをタブみたいに見えるようにする
 
 [editor.cursor-shape]
 insert = "bar"
@@ -29,6 +30,8 @@ display-inlay-hints = true
 "X" = ["extend_line_up", "extend_to_line_bounds"]
 "C-[" = "jump_backward"
 "C-]" = "jump_forward"
+"H" = ":buffer-previous"
+"L" = ":buffer-next"
 
 # lazygitを起動
 "C-g" = [":new", ":insert-output lazygit", ":buffer-close!", ":redraw"]
