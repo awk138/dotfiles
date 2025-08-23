@@ -36,6 +36,8 @@ display-inlay-hints = true
 "C-j" = ["scroll_down", "move_line_down"]
 "C-k" = ["scroll_up", "move_line_up"]
 
+"C-r" = ":rla"
+
 # lazygitを起動
 "C-g" = [":new", ":insert-output lazygit", ":buffer-close!", ":redraw"]
 
