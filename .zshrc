@@ -16,4 +16,4 @@ alias cl='clear'
 alias vim='nvim'
 
 # misc
-export EDITOR=nvim
+export EDITOR=hx
