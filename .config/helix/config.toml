@@ -52,3 +52,6 @@ display-inlay-hints = true
 
 [keys.insert]
 j = { j = "normal_mode" } # "jj"でNormal Modeへ移行
+
+[keys.normal.'space']
+w = ':buffer-close' 
