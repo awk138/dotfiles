@@ -1,4 +1,4 @@
-theme = iceberg-dark
+theme = "Iceberg Dark"
 
 # 合字を表示させないようにする
 font-feature = -dlig
