@@ -2,10 +2,6 @@
 # auto start
 eval "$(starship init zsh)"
 
-# Zellij(http://zellij.dev/)
-# auto start
-eval "$(zellij setup --generate-auto-start zsh)"
-
 # alias
 alias ll='ls -l'
 alias la='ls -a'
